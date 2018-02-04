@@ -4,6 +4,8 @@ body{font-family:'Source Sans Pro', Calibri, sans-serif;line-height:14px;backgro
 #obsah{padding:20px;font-size:12pt;}
 div.spolu {display: inline-block; width: 100%;}
 
+.twoColumns {-webkit-column-count:2;-moz-column-count:2;column-count:2;-webkit-column-gap:30px;-moz-column-gap:30px;column-gap:30px;}
+
 .licence2{background: #6b757f; border-radius: 8px; padding: 5px; margin-top: 20px; margin-bottom: 20px; display:inline-block; box-shadow:0px 0px 20px #c0cedc; color: #c0cedc}
 
 h1,h2,h3,h4{line-height: 1; margin-bottom: 0px; font-weight:600;}
